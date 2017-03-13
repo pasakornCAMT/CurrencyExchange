@@ -37,7 +37,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GradeCalculator.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GradeCalculator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/utility/GradeCalculator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
@@ -45,6 +45,18 @@
               <folding>
                 <element signature="e#137#138#0" expanded="true" />
                 <element signature="e#164#165#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GradeCalculatorTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/utility/GradeCalculatorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="60" lean-forward="false" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -86,6 +98,7 @@
         <option value="$PROJECT_DIR$/src/test/java/utility/CurrencyTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/utility/Currency.java" />
         <option value="$PROJECT_DIR$/src/main/java/utility/GradeCalculator.java" />
+        <option value="$PROJECT_DIR$/src/test/java/utility/GradeCalculatorTest.java" />
       </list>
     </option>
   </component>
@@ -630,6 +643,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="6f53a48e-53d3-4da8-9f74-8ebc7e695a70" name="Default" comment="" />
@@ -637,7 +653,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1489401294420</updated>
-      <workItem from="1489401298801" duration="1820000" />
+      <workItem from="1489401298801" duration="2077000" />
     </task>
     <servers />
   </component>
@@ -647,7 +663,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1820000" />
+    <option name="totallyTimeSpent" value="2077000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -740,6 +756,24 @@
           <folding>
             <element signature="e#137#138#0" expanded="true" />
             <element signature="e#164#165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/lab03/Lab-06.03.17/labcherearaimairukutummaidai/src/test/java/GradeCalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="7" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/utility/GradeCalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="60" lean-forward="false" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
