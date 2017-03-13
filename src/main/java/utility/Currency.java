@@ -46,6 +46,6 @@ public class Currency {
             amount = amount * 1.01;
             return amount;
         }
-    
+
     }
 }
