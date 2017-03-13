@@ -13,7 +13,11 @@ public class GradeCalculator {
 
         //Step2 check
         if (sum <= 100 && sum >= 0) {
-            return 'x';
+            //Step3 do some code
+            if (sum > 95) return 'A';
+            if (sum > 80) return 'B';
+            if (sum > 60) return 'C';
+            return 'F';
         } else {
             return 'x';
         }
